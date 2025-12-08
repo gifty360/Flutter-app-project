@@ -28,7 +28,7 @@ class _LoginState extends State<Login> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Image.asset(
-                    'assets/images/login_image.jfif',
+                    'assets/images/image_01.jpg',
                     height: 200,
                   ),
                   SizedBox(height: 25),
