@@ -1,5 +1,5 @@
 # A Flutter project.
-This Project was create a Login, Registration and Forgot Password Page
+This Flutter Project has a Login, Registration and Forgot Password Page
 
 
 ### LOGIN PAGE 
